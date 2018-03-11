@@ -1,3 +1,7 @@
+---
+title: Acta del 9-3
+---
+
 # Orden del día
 <!-- TOC depthFrom:1 depthTo:2 withLinks:1 updateOnSave:1 orderedList:0 -->
 
